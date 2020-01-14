@@ -16,6 +16,7 @@ public class ConcurrentRequest {
      * @param concurrentThreads    并发线程数，可以用来模拟并发访问用户数
      * @param times                总共执行多少次
      * @param task                 任务
+     * @param handler              结果处理器
      * @param executeTimeoutMillis 执行任务总超时
      * @throws InterruptedException
      * @throws ExecutionException

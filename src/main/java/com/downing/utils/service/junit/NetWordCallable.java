@@ -12,11 +12,20 @@ import java.util.concurrent.Callable;
 public class NetWordCallable implements Callable {
 
     /**
-     * 请求地址
+     * 请求方法   目前仅支持 get post
      */
     private String method;
+    /**
+     * 请求url
+     */
     private String url;
+    /**
+     * 请求头
+     */
     private Map<String, String> headers;
+    /**
+     * post请求时携带的参数
+     */
     private Map<String, Object> paramMap;
 
     public NetWordCallable(String method, String url, Map<String, String> headers) {
