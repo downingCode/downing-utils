@@ -18,7 +18,7 @@ public class ServerApplication {
 
     @GetMapping("/index")
     public String index() {
-        return "hello world";
+        return "hello world and jenkins";
     }
 
 }
