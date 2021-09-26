@@ -2,10 +2,9 @@ package com.downing.util.service;
 
 import com.downing.util.config.DownConfig;
 import com.downing.util.config.TheadPool;
-import com.downing.util.thead.DownThread;
 import com.downing.util.thead.DownThread2;
 import com.downing.util.util.HttpUtil;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

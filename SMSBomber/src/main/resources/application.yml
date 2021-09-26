@@ -1,0 +1,8 @@
+http:
+  pool:
+    max-total: 1000 #最大连接数
+    default-max-per-route: 20 #并发数
+    connect-timeout: 5000 # 创建连接的最长时间
+    connection-request-timeout: 500 # 从连接池中获取到连接的最长时间
+    statle-connection-check-enabled: true #提交请求前测试连接是否可用
+    socket-timeout: 5000 # 数据传输的最长时长

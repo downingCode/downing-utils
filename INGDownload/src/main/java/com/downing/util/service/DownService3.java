@@ -4,7 +4,8 @@ import com.downing.util.config.TheadPool;
 import com.downing.util.entity.DownInfo;
 import com.downing.util.thead.DownThread3;
 import com.downing.util.util.HttpUtil;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
+
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;

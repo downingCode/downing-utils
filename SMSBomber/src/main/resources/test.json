@@ -1,0 +1,22 @@
+[
+  {
+    "name": "YES-PMP",
+    "url": "https://mzone.yqb.com/mzone-http/sms/send_sms",
+    "type": "JSON",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0",
+      "content-type": "application/json"
+    },
+    "param": {
+      "appId": "100001",
+      "businessId": "CMHSJHSS",
+      "deviceId": "649c9de8d1808efc8288bca1f2ed6f9e",
+      "deviceInfo": "{\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36\",\"color_depth\":24,\"pixel_ratio\":1,\"resolution\":[1920,1080],\"available_resolution\":[1920,1040],\"session_storage\":1,\"local_storage\":1,\"indexed_db\":1,\"open_database\":1,\"navigator_platform\":\"Win32\",\"js_fonts\":[\"Arial\",\"Arial Black\",\"Arial Narrow\",\"Book Antiqua\",\"Bookman Old Style\",\"Calibri\",\"Cambria\",\"Cambria Math\",\"Century\",\"Century Gothic\",\"Century Schoolbook\",\"Comic Sans MS\",\"Consolas\",\"Courier\",\"Courier New\",\"Garamond\",\"Georgia\",\"Helvetica\",\"Impact\",\"Lucida Bright\",\"Lucida Calligraphy\",\"Lucida Console\",\"Lucida Fax\",\"Lucida Handwriting\",\"Lucida Sans\",\"Lucida Sans Typewriter\",\"Lucida Sans Unicode\",\"Microsoft Sans Serif\",\"Monotype Corsiva\",\"MS Gothic\",\"MS PGothic\",\"MS Reference Sans Serif\",\"MS Sans Serif\",\"MS Serif\",\"MYRIAD PRO\",\"Palatino Linotype\",\"Segoe Print\",\"Segoe Script\",\"Segoe UI\",\"Segoe UI Light\",\"Segoe UI Semibold\",\"Segoe UI Symbol\",\"Tahoma\",\"Times\",\"Times New Roman\",\"Trebuchet MS\",\"Verdana\",\"Wingdings\",\"Wingdings 2\",\"Wingdings 3\"],\"tme_id\":\"8315E3D1-9ADF-4E9B-8569-E9DA2FC33FBC\"}",
+      "extraInfo": "",
+      "jsResult": "68e636bb32694dfb8e3d7347913fcd0b",
+      "jsToken": "d.Q2e6MPk8BbxTCyUKwQv-",
+      "mp": "target_Phone",
+      "serialNo": ""
+    }
+  }
+]
