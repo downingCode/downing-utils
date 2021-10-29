@@ -10,6 +10,7 @@
     <modules>
         <module>SMSBomber</module>
         <module>INGDownload</module>
+        <module>SensitiveFilter</module>
     </modules>
     <packaging>pom</packaging>
     <description>downing 工具</description>
